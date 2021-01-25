@@ -1,0 +1,19 @@
+table{
+  color:#19FBFF;
+}
+[ href="#ideveloper"]{
+
+color="orange";
+}
+[class="privet"]{
+color:purple;
+}
+#ideveloper{
+font-weight: bold;
+}
+html tr {
+color: black ;
+}
+#my_ssilka{
+color:lime;
+}
